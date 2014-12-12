@@ -1,4 +1,4 @@
 ali
 ===
 
-www.mdaliakhtar.com
+mdaliakhtar.com
