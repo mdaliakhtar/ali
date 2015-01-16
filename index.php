@@ -61,6 +61,16 @@ function ValidContactForm(){
 	}		
 }
 </script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-57209007-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
 </head>
 <body class="royal_preloader">
 <div id="royal_preloader"></div>
@@ -749,7 +759,7 @@ My day job is with Qmax Systems India Pvt. Ltd., where I am a Software Engineer.
         </div>
         <div class="footer-social">
         	<a target="_blank" href="https://www.linkedin.com/in/mdaliakhtar"><span class="bg"></span><i class="fa fa-linkedin"></i></a>
-            <a target="_blank" href="https://www.facebook.com/ALImdaliakhtar"><span class="bg"></span><i class="fa fa-facebook"></i></a>
+            <a target="_blank" href="https://www.facebook.com/AliAkhtarMd"><span class="bg"></span><i class="fa fa-facebook"></i></a>
             <a target="_blank" href="https://twitter.com/mdaliakhtar"><span class="bg"></span><i class="fa fa-twitter"></i></a>
             <a target="_blank" href="https://plus.google.com/u/0/+MdAliAkhtarMD"><span class="bg"></span><i class="fa fa-google-plus"></i></a>
             <a target="_blank" href="skype:aliakhtarmd"><span class="bg"></span><i class="fa fa-skype"></i></a>
