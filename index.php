@@ -775,7 +775,7 @@ My day job is with Qmax Systems India Pvt. Ltd., where I am a Software Engineer.
         </div>
     </div>
     <div class="secondary">
-        Copyright © 2014 All Rights Reserved.
+        Copyright © 2015 All Rights Reserved.
     </div>
 </footer>
 <!--footer end-->
